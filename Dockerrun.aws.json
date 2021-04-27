@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "pruchay/multi-worker",
+      "image": "pruchay/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
